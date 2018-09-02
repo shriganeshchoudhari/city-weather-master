@@ -21,14 +21,14 @@ Main features why I created this app:
 
 ## DEMO
 
-The app is hosted on GH pages: https://shriganeshchoudhari.github.io/city-weather/
+The app is hosted on GH pages: https://shriganeshchoudhari.github.io/city-weather-master/
 
 ## Installation
 
 Assuming you have node, npm and git installed:
 
 1. In Git Bash:
-    - $ git clone https://github.com/shriganeshchoudhari/city-weather.git city-weather
+    - $ git clone https://github.com/shriganeshchoudhari/city-weather-master.git city-weather
     - $ cd city-weather
     - $ npm install
 
