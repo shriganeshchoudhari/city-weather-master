@@ -21,7 +21,7 @@ Main features why I created this app:
 
 ## DEMO
 
-The app is hosted on GH pages: https://shriganeshchoudhari.github.io/city-weather-master/
+The app is hosted on GH pages: https://shriganeshchoudhari.github.io/city-weather-master/index.html
 
 ## Installation
 
